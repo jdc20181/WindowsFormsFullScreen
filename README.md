@@ -17,5 +17,13 @@ Licensed under the MIT License.
 
 
 
+**Setup 
+
+See [Setup.md](https://github.com/jdc20181/WindowsFormsFullScreen/blob/master/source/setup.md)
+
+
+
+
+
 Featured in my [Browser Project](https://github.com/jdc20181/BeffsBrowser) 
 
