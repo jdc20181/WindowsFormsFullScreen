@@ -16,4 +16,4 @@ When the FullScreen Button is clicked you want to Hide the FullScreen Button and
 
 Here is an example for those new to VB.net
 
-Button1.visible = Condtion (True, False)
+`Button1.visible = Condtion (True, False)`
