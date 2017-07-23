@@ -4,7 +4,7 @@ Open up the desired project or form you want to add fullscreen capabilities to, 
 
 Name one FullScreen, and the other ExitFullScreen. 
 
-Now, grab the code from the 'Fullscreen.vb' File, and put in its respective spot.
+Now, grab the code from the [Fullscreen.vb](https://github.com/jdc20181/WindowsFormsFullScreen/blob/master/source/FullScreen.Vb) File, and put in its respective spot.
 
 There is a little more configurating to do - 
 
