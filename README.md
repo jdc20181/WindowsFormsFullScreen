@@ -17,7 +17,7 @@ Licensed under the MIT License.
 
 
 
-**Setup 
+**Setup** 
 
 See [Setup.md](https://github.com/jdc20181/WindowsFormsFullScreen/blob/master/source/setup.md)
 
