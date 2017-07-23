@@ -7,7 +7,7 @@ Easy Solution to a bigger problem
 
 A code Solution for making forms in a windows forms Project go Fullscreen mode. This includes covering the taskbar. 
 
-** Is it easy to use?**
+**Is it easy to use?**
 
 Yes, it only takes a few lines of code  to be able to enter and exit fullscreen. 
 
